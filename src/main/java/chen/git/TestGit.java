@@ -6,6 +6,7 @@ public class TestGit {
 		// TODO 自动生成的方法存根
         System.out.println("这是第二个");
         int a=5;
+        System.out.println("我真帅");
 	}
 
 }
